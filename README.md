@@ -43,7 +43,7 @@ me.say_hi()
 <table>
   <tr>
     <td width="50%" style="border:1px solid #eaeaea; border-radius:6px; padding:12px;">
-      <div align="right"><sub><i>working…</i></sub></div>
+      <div align="right"><sub><i>⚒️WORKING…</i></sub></div>
       <h3>📁 Machine Learning</h3>      <p>
         Collection of machine learning projects, notebooks, and implementations
         covering core ML concepts and algorithms.
@@ -53,6 +53,7 @@ me.say_hi()
       </a>
     </td>
     <td width="50%" style="border:1px solid #eaeaea; border-radius:6px; padding:12px;">
+        <div align="right"><sub><i>🔥TOP CONTRIBUTOR</i></sub></div>
       <h3>📁 Driver Drowsiness Detection</h3>
       <p>
         Computer vision–based system to detect driver drowsiness using facial
